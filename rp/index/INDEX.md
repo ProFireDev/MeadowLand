@@ -1,23 +1,19 @@
+---
+layout: default
+title: Page not found
+nav_exclude: true
+search_exclude: true
+---
+
 # Resource Pack List
 
-[Comic Sans Font](../ComicSans.md)
+**Do you want to make your very own pack?** Read [the FAQ](../../FAQ)!
 
-[Sand Castle Sprite Pack](../Sandcastle.md)
+## Packs recently taken down
+White Squares for being low quality (26/07/2020, 20:31 CEST)
 
-[Dark Mode Sprite Pack](../DarkMode.md)
+## Packs currently available
 
-[Autumn Sprite Pack (Optional Font)](../AutumnSpritePack.md)
-
-[Insanity Sprite Pack](../InsanitySpritePack.md)
-
-[Winter Sprite Pack](../WinterSpritePack.md)
-
-[1-Bit Sprite Pack](../1bitpack.md)
-
-[Minecraft Flowers Sprite Pack](../MinecraftFlowers.md)
-
-[Only Bird And MailBox Sprite Pack](../OnlyMailAndBirdSpritePack.md) (no flowers and stuff!)
-
-[Japanese Theme](../JapanPack.md)
-
-[Pink Cutie Mail Pack](../PinkCutie.md)
+### [Packs containing fonts](fonts.md)
+### [Packs containing letter backgrounds](letterbg.md)
+### [Packs containing sprite sheets](spritesheets.md)
